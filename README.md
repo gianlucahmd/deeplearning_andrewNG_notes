@@ -10,7 +10,7 @@ If you prefer reading a pdf, there are several tool online to convert it, otherw
 Solution to exercises are not present here, I'm not sure wether that would be OK with Coursera's rules. If you need them and you know that it's OK to publish them, let me know and I'll add them to the repo.
 
 Full Program:
-1. [Neural Networks and Deep Learning](NNs_deeplearning.md)
+1. [Neural Networks and Deep Learning](NNs_deeplearning.ipynb)
 2. Improving Deep NNs: Hyperparameter tuning, Regularisation and Optimisation
 3. Structuring your ML project
 4. Convolutional Neural Networks (CNNs)
